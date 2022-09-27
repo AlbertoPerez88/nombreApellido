@@ -18,7 +18,7 @@ public class NombreApellido {
         // TODO code application logic here
         Scanner ent = new Scanner(System.in);
         
-        System.out.println("Introduce el nombre: ");
+        System.out.println("Introduce el nombre:  ");
         String nombre = ent.nextLine();
         System.out.println("Introduce los apellidos: ");
         String apellidos = ent.nextLine();
